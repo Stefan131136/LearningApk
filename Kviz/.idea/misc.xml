@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program Files/Android/Kviz/app/src/main/res/layout/activity_brisanje.xml" value="0.2" />
+        <entry key="..\:/Program Files/Android/Kviz/app/src/main/res/layout/activity_brisanje_recii.xml" value="0.12239583333333333" />
+        <entry key="..\:/Program Files/Android/Kviz/app/src/main/res/layout/activity_dodaj.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/Android/Kviz/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/Android/Kviz/app/src/main/res/layout/activity_prikazi_reci.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/Android/Kviz/app/src/main/res/layout/activity_proba.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/Android/Kviz/app/src/main/res/layout/activity_ubrisanje.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/Android/Kviz/app/src/main/res/layout/dodaj.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/Android/Kviz/app/src/main/res/layout/proba.xml" value="0.19322916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
